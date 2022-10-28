@@ -15,5 +15,6 @@
 <div align="center"> 
 <a href = "mailto:d7pimenta@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davi-luiz-b70a66233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "d7pimenta.github.io/portfolio/"> <img src="https://img.shields.io/badge/-Portfólio-%23333?style=for-the-badge&logo=link&logoColor=white" target="_blank"></a>
 </div>
 
