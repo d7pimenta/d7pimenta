@@ -8,7 +8,7 @@
 <div align="center"> 
 <a target="_blank" href="https://www.linkedin.com/in/davi-luiz-b70a66233/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a target="_blank" href="https://api.whatsapp.com/send/?phone=5571997263624&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a target="_blank" href="https://www.youtube.com/playlist?list=PLVDZaPjOx6ZZVCxWj-ko6ixwCyOMn-Xl6"><img src="https://img.shields.io/badge/Youtube-25D366?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLVDZaPjOx6ZZVCxWj-ko6ixwCyOMn-Xl6"><img src="https://img.shields.io/badge/Youtube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 ### Main skills:
